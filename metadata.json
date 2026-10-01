@@ -1,0 +1,6 @@
+{
+  "name": "DocentePro",
+  "description": "Aplicación de planificación y asistencia inteligente para docentes de alta carga horaria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
